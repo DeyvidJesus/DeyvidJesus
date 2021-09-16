@@ -1,7 +1,9 @@
 ### Olá, eu sou o Deyvid Jesus 👋
 
-- 🌱 Estou aprendendo HTML5, CSS3 e JavaScript no momento.
-- 🤔 Eu busco ajuda com JavaScript no geral pois não entendo muito bem ainda.
+- 🆔 Sou um jovem de 16 anos, aspirante a desenvolvedor, e apaixonado por tecnologia. Aberto a conexões nas minhas redes, que podem ser encontradas mais abaixo.
+- 🚀 Estou me desenvolvendo nas seguintes habilidades no momento HTML5, CSS3 e JavaScript.
+- 👨‍💻 Pretendo aprender em um futuro próximo React.Js, Bootstrap e node.Js.
+- 📢 Estou aberto a projetos open-source e a trabalho também.
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">
@@ -16,6 +18,15 @@
   <img align="center" alt="Deyvid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deyvid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deyvid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+## Quero aprender
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Deyvid-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Deyvid-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Deyvid-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Deyvid-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
   
 ##
