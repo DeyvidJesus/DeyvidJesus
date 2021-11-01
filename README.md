@@ -3,10 +3,9 @@
 <br>
 <ul>
   <li>Desenvolvedor web 👨‍💻</li>
-  <br>
   <li>Estudando JavaScript 📒</li>
-  <br>
   <li>Disponível para contato 📞</li>
+  <li>Aberto à feedbacks 📝</li>
 </ul>
 
 <br>
