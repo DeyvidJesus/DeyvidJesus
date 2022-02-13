@@ -1,4 +1,4 @@
-<img align="right" height="280em" src="https://user-images.githubusercontent.com/86028187/139561858-57e10718-0185-433c-9956-bdd13392ee33.gif">
+<img align="right" height="320em" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ffa38663a6bcddf9cb5eff4ad5591b9ecf77acfc&rid=giphy.gif&ct=g">
 <h1 align="left">Oii, eu sou o Deyvid 👋</h1>
 <br>
 <ul>
@@ -23,11 +23,19 @@
 
 <div style="display: inline_block">
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" /> __
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+
+
 </div>
   
 <h1>Estatísticas do Github</h1>
