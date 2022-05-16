@@ -41,7 +41,7 @@
 </div>
   
 <h1>Estatísticas do Github</h1>
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=midnight-purple" alt="Estatísticas do Deyvid"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&theme=midnight-purple" alt="Linguagens mais utilizadas por Deyvid"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=midnight-purple" alt="Estatísticas do Deyvid"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&theme=midnight-purple" alt="Linguagens mais utilizadas por Deyvid"/>
 
  ![Snake animation](https://github.com/DeyvidJesus/DeyvidJesus/blob/output/github-contribution-grid-snake.svg)
