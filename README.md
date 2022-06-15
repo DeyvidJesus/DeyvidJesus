@@ -3,7 +3,7 @@
 <br>
 <ul>
   <li>Desenvolvedor web 👨‍💻</li>
-  <li>Estudando ReactJS e NextJS 📒</li>
+  <li>Estudando ReactJS 📒</li>
   <li>Disponível para contato 📞</li>
   <li>Aberto à feedbacks 📝</li>
 </ul>
@@ -33,7 +33,8 @@
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
   
