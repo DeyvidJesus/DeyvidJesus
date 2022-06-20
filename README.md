@@ -3,7 +3,7 @@
 <br>
 <ul>
   <li>Desenvolvedor web 👨‍💻</li>
-  <li>Estudando ReactJS 📒</li>
+  <li>Estudando NodeJS 📒</li>
   <li>Disponível para contato 📞</li>
   <li>Aberto à feedbacks 📝</li>
 </ul>
