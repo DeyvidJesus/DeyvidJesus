@@ -2,20 +2,15 @@
 <h1 align="left">Oii, eu sou o Deyvid 👋</h1>
 <br>
 <ul>
-  <li>Desenvolvedor web 👨‍💻</li>
-  <li>Estudando NodeJS 📒</li>
+  <li>Desenvolvedor Frontend 👨‍💻</li>
+  <li>Desenvolvendo Portfolio ⚙️</li>
   <li>Disponível para contato 📞</li>
-  <li>Aberto à feedbacks 📝</li>
 </ul>
 
 <br>
 
-<div style="display: inline_block">
-  
-<a href="mailto:deyvidgondim@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<br>
-<a href="https://instagram.com/_deyvidjesus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<br>
+<div>
+<a href="mailto:deyvidgondim@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
 <a href="https://linkedin.com/in/deyvid-g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
@@ -31,15 +26,13 @@
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> -
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
 
 </div>
   
 <h1>Estatísticas do Github</h1>
-<img width="580em" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=midnight-purple" alt="Estatísticas do Deyvid"/>
-<img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&langs_count=6&theme=midnight-purple" alt="Linguagens mais utilizadas por Deyvid"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=midnight-purple" alt="Estatísticas do Deyvid"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&langs_count=8&theme=midnight-purple" alt="Linguagens mais utilizadas por Deyvid"/>
 
  ![Snake animation](https://github.com/DeyvidJesus/DeyvidJesus/blob/output/github-contribution-grid-snake.svg)
