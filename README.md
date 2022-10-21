@@ -16,7 +16,7 @@
 
 <br>
 
-<h1>Habilidades Técnicas</h1>
+<h2>Habilidades Técnicas</h1>
 
 <div style="display: inline_block">
   
@@ -28,11 +28,13 @@
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
-
 </div>
+
+##
   
-<h1>Estatísticas do Github</h1>
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=midnight-purple" alt="Estatísticas do Deyvid"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&langs_count=8&theme=midnight-purple" alt="Linguagens mais utilizadas por Deyvid"/>
+<div>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=midnight-purple" alt="Estatísticas do Deyvid"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&langs_count=8&theme=midnight-purple" alt="Linguagens mais utilizadas por Deyvid"/>
+</div>
 
  ![Snake animation](https://github.com/DeyvidJesus/DeyvidJesus/blob/output/github-contribution-grid-snake.svg)
