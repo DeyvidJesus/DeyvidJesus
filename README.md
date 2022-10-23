@@ -3,7 +3,7 @@
 <br>
 <ul>
   <li>Desenvolvedor Frontend 👨‍💻</li>
-  <li>Desenvolvendo Portfolio ⚙️</li>
+  <li>Estudando análise de dados 📊</li>
   <li>Disponível para contato 📞</li>
 </ul>
 
