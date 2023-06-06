@@ -3,7 +3,7 @@
 <br>
 <ul>
   <li>Desenvolvedor Frontend 👨‍💻</li>
-  <li>Estudando análise de dados 📊</li>
+  <li>Estudando node.js</li>
   <li>Disponível para contato 📞</li>
 </ul>
 
@@ -25,8 +25,7 @@
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -
 <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -
-<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
 </div>
 
