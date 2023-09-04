@@ -33,7 +33,7 @@
   
 <div>
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=midnight-purple" alt="Estatísticas do Deyvid"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&langs_count=8&theme=midnight-purple" alt="Linguagens mais utilizadas por Deyvid"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=compact&langs_count=8&theme=midnight-purple&hide=shell,java" alt="Linguagens mais utilizadas por Deyvid"/>
 </div>
 
  ![Snake animation](https://github.com/DeyvidJesus/DeyvidJesus/blob/output/github-contribution-grid-snake.svg)
