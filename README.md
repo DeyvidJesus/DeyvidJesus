@@ -4,7 +4,7 @@
 <ul>
   <li>Desenvolvedor Frontend 👨‍💻</li>
   <li>Stack principal: <strong>ReactJS com Typescript</strong></li>
-  <li>Estudando backend com <strong>NodeJS e Postgres</strong></li>
+  <li>Estudando backend com <strong>NextJS com MongoDB</strong></li>
   <li>Em busca de uma oportunidade! 📈</li>
 </ul>
 
