@@ -42,7 +42,7 @@
 ##
   
 <div>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=donut&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas por Deyvid"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=donut&langs_count=8&hide=shell&theme=tokyonight" alt="Linguagens mais utilizadas por Deyvid"/>
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=tokyonight" alt="Estatísticas do Deyvid"/>
 </div>
 
