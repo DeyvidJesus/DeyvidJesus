@@ -3,8 +3,8 @@
 <br>
 <ul>
   <li>Desenvolvedor Frontend 👨‍💻</li>
-  <li>Stack principal: <strong>ReactJS com Typescript</strong></li>
-  <li>Estudando backend com <strong>NextJS com MongoDB</strong></li>
+  <li>Stack principal: <strong>ReactJS/NextJS com Typescript</strong></li>
+  <li>Estudando backend com <strong>Ruby on Rails</strong></li>
   <li>Em busca de uma oportunidade! 📈</li>
 </ul>
 
