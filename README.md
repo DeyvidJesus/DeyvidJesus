@@ -4,7 +4,7 @@
 <ul>
   <li>Desenvolvedor Frontend 👨‍💻</li>
   <li>Stack principal: <strong>ReactJS/NextJS com Typescript</strong></li>
-  <li>Estudando backend com <strong>Ruby on Rails</strong></li>
+  <li>Estudando backend com <strong>Java</strong></li>
   <li>Em busca de uma oportunidade! 📈</li>
 </ul>
 
