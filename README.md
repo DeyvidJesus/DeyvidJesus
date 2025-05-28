@@ -5,7 +5,6 @@
   <li>Desenvolvedor Frontend 👨‍💻</li>
   <li>Stack principal: <strong>ReactJS/NextJS com Typescript</strong></li>
   <li>Cursando <strong>Sistemas de informação</strong></li>
-  <li>Em busca de uma oportunidade! 📈</li>
 </ul>
 
 <br>
