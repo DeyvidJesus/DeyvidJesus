@@ -1,10 +1,10 @@
 <img align="right" height="320em" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ffa38663a6bcddf9cb5eff4ad5591b9ecf77acfc&rid=giphy.gif&ct=g">
-<h1 align="left">Oii, eu sou o Deyvid 👋</h1>
+<h1 align="left">Hi, I'm Deyvid 👋</h1>
 <br>
 <ul>
-  <li>Desenvolvedor Frontend 👨‍💻</li>
-  <li>Stack principal: <strong>ReactJS/NextJS com Typescript</strong></li>
-  <li>Cursando <strong>Sistemas de informação</strong></li>
+  <li>Frontend Developer 👨‍💻</li>
+  <li>Main Stack: <strong>ReactJS/NextJS with Typescript</strong></li>
+  <li>Studying <strong>Information Systems</strong></li>
 </ul>
 
 <br>
@@ -16,7 +16,7 @@
 
 <br>
 
-<h2>Habilidades Técnicas</h2>
+<h2>Technical Skills</h2>
 
 <div align="center">
   
@@ -41,8 +41,8 @@
 ##
   
 <div>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=donut&langs_count=8&hide=shell&theme=tokyonight" alt="Linguagens mais utilizadas por Deyvid"/>
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=tokyonight" alt="Estatísticas do Deyvid"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&layout=donut&langs_count=8&hide=shell&theme=tokyonight" alt="Deyvid's most used languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=tokyonight" alt="Deyvid's statistics"/>
 </div>
 
 <picture>
