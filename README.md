@@ -5,6 +5,11 @@
 Full-Stack Software Engineer focused on building scalable systems and SaaS products.  
 Experience with modern web architectures, backend services, and cloud environments.
 
+<div>
+<a href="mailto:deyvidgondim@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
+<a href="https://linkedin.com/in/deyvid-gondim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 <br>
 
 ## About Me
@@ -71,15 +76,6 @@ SaaS platform for mechanical workshops, focused on operations management, financ
 - Database modeling and performance  
 - Clean architecture and maintainability  
 - Cloud-based systems  
-
-<br>
-
-## Contact
-
-<div>
-<a href="mailto:deyvidgondim@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
-<a href="https://linkedin.com/in/deyvid-gondim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
 
 <br>
 
