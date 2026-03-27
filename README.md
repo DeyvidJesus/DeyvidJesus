@@ -22,7 +22,7 @@ Experience with modern web architectures, backend services, and cloud environmen
 <br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&theme=radical&layout=compact&card_width=400&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&theme=radical&layout=compact&card_width=400&langs_count=9)]https://github.com/DeyvidJesus/github-readme-stats)
 
 ## Tech Stack
 
