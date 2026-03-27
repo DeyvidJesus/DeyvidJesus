@@ -17,12 +17,7 @@ Experience with modern web architectures, backend services, and cloud environmen
 - Software Engineer working with production-level applications  
 - Experience across frontend and backend systems  
 - Building **GoMech**, a SaaS platform for mechanical businesses  
-- Strong focus on backend architecture, APIs, and system design  
-
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DeyvidJesus&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidJesus&theme=radical&layout=compact&card_width=400&langs_count=9)]https://github.com/DeyvidJesus/github-readme-stats)
+- Strong focus on backend architecture, APIs, and system design
 
 ## Tech Stack
 
