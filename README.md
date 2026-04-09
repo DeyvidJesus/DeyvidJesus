@@ -16,7 +16,6 @@ Experience with modern web architectures, backend services, and cloud environmen
 
 - Software Engineer working with production-level applications  
 - Experience across frontend and backend systems  
-- Building **GoMech**, a SaaS platform for mechanical businesses  
 - Strong focus on backend architecture, APIs, and system design
 
 ## Tech Stack
