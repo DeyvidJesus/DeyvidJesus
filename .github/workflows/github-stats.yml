@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: github-stats
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -16,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -51,6 +57,13 @@ jobs:
 
           git add profile/*.svg
 
-          git diff --cached --quiet || git commit -m "chore: update GitHub stats"
+          if git diff --cached --quiet; then
+            echo "No stats changes."
+            exit 0
+          fi
 
-          git push
+          git commit -m "chore: update GitHub stats"
+
+          git pull --rebase origin master
+
+          git push origin HEAD:master
