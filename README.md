@@ -21,7 +21,6 @@ Building software products that combine technical scalability with real business
 
 ## Current Focus
 
-* Building **GoMech**, a SaaS platform for mechanical workshop management
 * Backend development with **Java and Spring Boot**
 * Scalable frontend applications with **React and TypeScript**
 * Cloud-native and containerized environments with **Docker and AWS**
