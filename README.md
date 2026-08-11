@@ -33,7 +33,7 @@ Building software products that combine technical scalability with real business
   <img
     src="./profile/stats.svg"
     height="180"
-    alt="Deyvid's GitHub Stats"
+    alt="Deyvid's GitHub General Stats"
   />
   <img
     src="./profile/top-langs.svg"
