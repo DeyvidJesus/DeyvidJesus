@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&hide=Shell,Dockerfile,Makefile&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=CMake,PLpgSQL,SCSS,Swift,C,Hack,Mako,Kotlin,Objective-C&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
